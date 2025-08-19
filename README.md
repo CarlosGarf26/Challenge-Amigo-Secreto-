@@ -13,7 +13,7 @@ Actividad popular donde un grupo de personas se intercambian regalos de forma an
 
 1.- Se debe de ingreasr a la siguiente pagina:
 
-* https://github.com/CarlosGarf26/Challenge-Amigo-Secreto-/edit/main/README.md 
+* https://carlosgarf26.github.io/Challenge-Amigo-Secreto-/
 
 <img width="1502" height="627" alt="image" src="https://github.com/user-attachments/assets/39e3fb84-7b92-44a6-a69c-1eecdf730b18" />
 
