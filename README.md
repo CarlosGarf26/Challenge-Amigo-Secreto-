@@ -20,3 +20,7 @@ Actividad popular donde un grupo de personas se intercambian regalos de forma an
 ° CSS3
 
 ° JavaScript </p> 
+
+<h1> Link para el juego </h1>
+
+<p> https://carlosgarf26.github.io/Challenge-Amigo-Secreto-/ </p>
