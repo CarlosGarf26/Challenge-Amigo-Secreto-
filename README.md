@@ -9,13 +9,45 @@ Actividad popular donde un grupo de personas se intercambian regalos de forma an
 <h1> Operatividad 🔭  </h1>
 
 <p> 
+*Opción 1*
 
-* Sorteo aleatorio: Selecciona un amigo secreto al azar.
+1.- Se debe de ingreasr a la siguiente pagina:
+
+* https://github.com/CarlosGarf26/Challenge-Amigo-Secreto-/edit/main/README.md 
+
+<img width="1502" height="627" alt="image" src="https://github.com/user-attachments/assets/39e3fb84-7b92-44a6-a69c-1eecdf730b18" />
+
+
+
+2.- Capturar los nombres de los participantes a sortear y click en añadir. 
+
+<img width="753" height="390" alt="image" src="https://github.com/user-attachments/assets/0e905e08-5524-45b2-af32-568d24143b10" />
+
+
+
+3.- click sortear amigo, el juego nos arroja el nombre indicado
+
+<img width="849" height="422" alt="image" src="https://github.com/user-attachments/assets/f9df98f2-df56-4e51-8624-2acc19e79392" />
+
+
+
+*Opción 2*
+
+° Descargar archivos disponibles en github ( https://github.com/CarlosGarf26 ), Challenge-Amigo-Secreto-
+
+
+<img width="809" height="318" alt="image" src="https://github.com/user-attachments/assets/e9839052-462e-489d-88b9-d095a40879e2" />
+
+
+
+° Descomprimir archivo en carpeta deseada.
+° Abrir desde tú editor de codigo (se recomienda VisualStudioCode).
+° Ejecutar archivo HTML <img width="978" height="688" alt="image" src="https://github.com/user-attachments/assets/b8d5c41a-4627-4605-8fcd-b05a4b38942e" />
 
 
 <p> Lenguajes utilizados 💻🖥️
 
-° HTML5
+° HTML5 
 
 ° CSS3
 
